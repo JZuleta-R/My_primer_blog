@@ -1,8 +1,23 @@
 body
 {
-    color: blueviolet;
+    color: #4b54d1;
     text-align: center;
     font-family: "Arial";
-
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
 }    
+#container
+{
+    width: 60%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
 
+#container h1
+{
+font-size: 20px;
+
+}
