@@ -22,7 +22,7 @@ body {
     font-weight: 400;
     font-size: 0.8em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(156, 45, 207);
+    background-color: rgb(78, 127, 160);
 }
 
 #container {
@@ -39,4 +39,19 @@ body {
 
 #post {
     padding: 1em;
+}
+#footer {
+    background: #37488b;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px -2px 20px 0px rgba(0,0,0,0.5);
+}
+
+#footer p {
+    margin: 0;
+    font-size: 0.9em;
 }
